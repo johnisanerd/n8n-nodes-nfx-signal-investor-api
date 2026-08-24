@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-nfx-signal-investor-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/nfx-signal-investor-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"nfx",
+		"signal nfx",
+		"investors",
+		"venture capital",
+		"vc firms",
+		"vc database",
+		"angel investors",
+		"fundraising",
+		"check size",
+		"apify"
+	]
+}
