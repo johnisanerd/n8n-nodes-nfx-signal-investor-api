@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-nfx-signal-investor-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Export venture investors, VC firms, and investor lists from Signal by NFX as structured JSON, with check sizes and optional firm enrichment.",
   "keywords": [
     "n8n-community-node-package",
