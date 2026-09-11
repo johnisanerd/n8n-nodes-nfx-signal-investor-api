@@ -83,4 +83,4 @@ The Actor is pay per result on Apify, so you are billed for the rows returned pl
 ## License
 
 MIT
-Last Updated: 2026.09.10
+Last Updated: 2026.09.11
